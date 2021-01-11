@@ -1,0 +1,18 @@
+int add(int a, int b)
+{
+    // to handle positive a
+    while (a > 0)
+    {
+        b++;
+        a--;
+    }
+ 
+    // to handle negative a
+    while (a < 0)
+    {
+        b--;
+        a++;
+    }
+    
+    return b;
+}
