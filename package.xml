@@ -5,6 +5,7 @@
     <name>AuraDefinitionBundle</name>
   </types>
   <types>
+    
     <members>*</members>
     <name>ApexClass</name>
   </types>
